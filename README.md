@@ -2,11 +2,12 @@
 ashharfarooqui/ashharfarooqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div align="center">
   
   [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-  
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZk2jWl81QSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724098890469?e=1730332800&v=beta&t=nc6dmQrNW0iIDy5EhZ-ydTVslvST2Co-NI3sMHe1qyg" alt="Professional headshot" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHZk2jWl81QSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724098890469?e=1730332800&v=beta&t=nc6dmQrNW0iIDy5EhZ-ydTVslvST2Co-NI3sMHe1qyg" alt="Professional headshot" /> 
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; About Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   
@@ -14,15 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 A passionate DevOps Engineer 🛠️ dedicated to automating infrastructure and streamlining software delivery pipelines ⏩. I specialize in building scalable, reliable, and secure cloud-native solutions using AWS, Kubernetes, and CI/CD tools. 
 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
-<br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" >
+<img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge">
+<img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge">
+<br><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge">
 </div>
 
 ### Key Strengths:
@@ -53,6 +49,7 @@ A passionate DevOps Engineer 🛠️ dedicated to automating infrastructure and 
 ### Let's Connect
 
 <div align="center">
+  <a href="https://mastodon.social/@ashharfarooqui"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mastodon-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944983.png?f=webp&w=256" width="100"></a> 
   <a href="https://x.com/ashhar_farooqui"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
   <a href="https://www.linkedin.com/in/ashhar-farooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
   <a href="https://instagram.com/_ashharfarooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>

@@ -44,17 +44,18 @@ A passionate DevOps Engineer 🛠️ dedicated to automating infrastructure and 
 * **Open-Source:** Actively contribute to open-source projects on GitHub.
 * **Community:** Participate in DevOps communities and forums to share knowledge and learn from others.
 
-### Certifications
+<!-- ### Certifications
 
 * **[Certification 1]:** List any relevant certifications, such as AWS Certified DevOps Engineer.
 * **[Certification 2]:** List any other certifications that demonstrate your expertise.
+-->
 
 ### Let's Connect
 
 <div align="center">
   <a href="https://x.com/ashhar_farooqui"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
-  <a href="https://instagram.com/_ashharfarooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
-  <a href="https://www.linkedin.com/in/ashhar-farooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+  <a href="https://www.linkedin.com/in/ashhar-farooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+  <a href="https://instagram.com/_ashharfarooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 </div>
 
 **Looking for:** Exciting opportunities to collaborate on challenging DevOps projects and contribute to innovative teams.

@@ -75,8 +75,6 @@ A passionate DevOps Engineer 🛠️ dedicated to automating infrastructure and 
   ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; Thanks for Visiting <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
   
   ### Made with <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" /> by [@Ashhar](https://www.linkedin.com/in/ashhar-farooqui/)
-  
-  ### Please 🌟 this repository! It really helps others to find this!! ❤️
 
   Your opinion matters! Feel free to create an issue or get in touch with [Ashhar Farooqui](https://github.com/ashharfarooqui) if you have any feedback or suggestions.
   

@@ -11,7 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 <p>Data Scientist 📊 | Machine Learning Practitioner 🤖 | Pythonic Thinker 🐍 | Insight Seeker 🔍</p>
 
-A passionate Data Scientist skilled at uncovering hidden insights from complex data. I specialize in building predictive models, crafting compelling visualizations, and delivering data-driven solutions using Python, SQL, and cloud tools. Let's translate data into decisions!
+👋 Hi, I'm Ashhar, a passionate Data Scientist turning data into actionable insights.
+I build robust ML models, craft compelling visualizations, and automate analytics workflows using Python, SQL, and cloud tools.
+
+🚀 Always learning. Always building. Always curious.
+
 
 <br>
 

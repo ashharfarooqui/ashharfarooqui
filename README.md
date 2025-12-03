@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>Data Scientist 📊 | Machine Learning Practitioner 🤖 | Pythonic Thinker 🐍 | Insight Seeker 🔍</p>
 
-👋 Hi, I'm Ashhar, a passionate Data Scientist turning data into actionable insights.
-I build robust ML models, craft compelling visualizations, and automate analytics workflows using Python, SQL, and cloud tools.
+👋 Hi, I'm Ashhar, Seeking a hands-on Data Scientist/ML Engineer role in a startup-style team, owning end-to-end ML solutions (EDA to deployment) using Python, LLMs, RAG, and recommender systems, with strong focus on measurable impact, rapid iteration, and continuous learning.
 
 🚀 Always learning. Always building. Always curious.
 

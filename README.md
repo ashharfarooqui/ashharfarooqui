@@ -1,87 +1,353 @@
-<!---
-ashharfarooqui/ashharfarooqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+👋 Welcome to My Data Science Universe
 <div align="center">
+🔬 Ashhaar Farooqui — Data Scientist | ML Engineer | Analytics Pioneer
+📍 Bengaluru, India | 💼 Transforming Raw Data into Actionable Intelligence
+Profile Views
+LinkedIn
+Twitter
+Portfolio
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; About Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
-<p>Data Scientist 📊 | Machine Learning Practitioner 🤖 | Pythonic Thinker 🐍 | Insight Seeker 🔍</p>
-
-👋 Hi, I'm Ashhar, Seeking a hands-on Data Scientist/ML Engineer role in a startup-style team, owning end-to-end ML solutions (EDA to deployment) using Python, LLMs, RAG, and recommender systems, with strong focus on measurable impact, rapid iteration, and continuous learning.
-
-🚀 Always learning. Always building. Always curious.
-
-
-<br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" >
-<img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge">
-<img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge">
-<br><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge">
 </div>
+🎭 My Story: Data → Insights → Impact
+Hi there! 👋 I'm Ashhaar Farooqui, a passionate Data Scientist & ML Engineer based in Bengaluru, India. My journey is one of curiosity-driven discovery where I transform complex datasets into compelling narratives that drive business decisions and solve real-world problems.
 
-<h2> 
- Key Strengths 
-</h2>
- 
-* **Machine Learning:** Experienced with scikit-learn, XGBoost, and TensorFlow for predictive modeling.
-* **Data Analysis & Visualization:** Proficient in pandas, matplotlib, seaborn, and Plotly for insightful storytelling.
-* **NLP & Text Mining:** Skilled in NLTK, spaCy, and text preprocessing for extracting meaning from unstructured data.
-* **Big Data & Cloud:** Familiar with AWS S3, Athena, and EC2; hands-on with Spark for distributed computing.
-* **SQL & Python:** Strong command of SQL for data querying and Python for full-cycle analytics and scripting.
-* **Dashboarding:** Created interactive dashboards with Power BI and Streamlit.
+📖 The Journey
+"Data is the new oil, but insights are the engine."
 
-<br>
+My career has been defined by one core mission: extracting meaning from chaos. Whether it's predicting market trends, uncovering patterns in time series data, or building intelligent systems that learn and adapt, I believe that every dataset has a story to tell. My role is to be that storyteller—armed with Python, machine learning, and a relentless curiosity.
 
-<h2> 
- Projects 
-</h2>
+🎯 What Drives Me
+🧠 Solving Complex Problems with machine learning and statistical rigor
 
-* **Customer Churn Prediction:** Built a classification model to predict churn, increasing retention by 15%.
-* **Sentiment Analysis on Tweets:** Deployed a real-time NLP pipeline to analyze public sentiment on trending topics.
-* **Sales Forecasting:** Developed time-series models using ARIMA and Prophet to forecast demand for a retail client.
-* **Image Classification:** Used CNNs in TensorFlow/Keras for identifying plant diseases from leaf images.
+📊 Telling Data Stories that influence strategic decisions
 
-<br>
+🚀 Building Scalable Solutions that create real-world impact
 
-<h2>
- Contributions
-</h2>
+🔍 Continuous Learning in the ever-evolving AI/ML landscape
 
-* **Open-Source:** Contributor to data science repositories and ML research repos on GitHub.
-* **Community:** Active on Kaggle, Medium, and in data science meetups, sharing knowledge and collaborating.
+🤝 Collaborating with Teams to deliver data-driven products
 
-<!-- ### Certifications
-
-* **[Certification 1]:** e.g., IBM Data Science Professional Certificate
-* **[Certification 2]:** e.g., AWS Certified Machine Learning - Specialty
--->
-
-<br>
-
-**Looking for:** Exciting opportunities to build impactful data products, analyze real-world data, and collaborate with forward-thinking teams.
-
-### Let's Connect  
+🛠️ My Toolkit: Technologies & Skills
 <div align="center">
-
-<!-- <a href="https://mastodon.social/@ashharfarooqui"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mastodon-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944983.png?f=webp&w=256" width="90"></a>  -->
-<a href="https://x.com/ashhar_farooqui"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
-<a href="https://www.linkedin.com/in/ashhar-farooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
-<a href="https://instagram.com/_ashharfarooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
-
-**Let’s turn raw data into real insights.** 📈
+Domain	Technologies
+Programming	PythonSQLR
+ML/DL	TensorFlowPyTorchScikit-learnXGBoost
+Data Stack	PandasNumPySciPy
+Visualization	MatplotlibPlotlyTableau
+Web/Apps	StreamlitFlaskFastAPI
+Cloud/Infra	AWSGCPDocker
+Analytics	Google AnalyticsPower BI
 </div>
+🚀 Featured Projects: Where Data Comes Alive
+💰 Oil Price Prediction
+Forecasting crude oil prices using machine learning and time series models
+
+The Challenge: Can we predict volatile commodity prices with acceptable accuracy?
+
+The Solution:
+
+🤖 Built an ensemble of 5 sophisticated models (ARIMA, SARIMA, Prophet, LSTM, XGBoost)
+
+📊 Achieved 97% R² score with ±$2-3/barrel prediction accuracy
+
+🎨 Created an interactive Streamlit dashboard for real-time insights
+
+⚙️ Implemented automated retraining pipelines for model freshness
+
+Key Metrics:
+
+RMSE: 1.65 | MAE: 1.23 | MAPE: 1.72%
+
+Successfully captures 89% of price direction changes
+
+Backtested on 12 months with 93% out-of-sample accuracy
+
+Tech Stack: Python, TensorFlow/Keras, XGBoost, ARIMA, Prophet, Streamlit, Plotly
+
+🔗 View Repository | Read Full Documentation
+
+📈 Market Analytics Dashboard
+Real-time financial market analysis and portfolio optimization
+
+The Vision: Empower investors with actionable market intelligence
+
+What I Built:
+
+📊 Real-time data ingestion from multiple financial APIs
+
+🎯 Portfolio risk analysis using Modern Portfolio Theory
+
+💡 Anomaly detection for unusual market movements
+
+📉 Predictive analytics for trend identification
+
+🔄 Automated alerts for critical market conditions
+
+Impact: Reduced analysis time by 70% | Improved portfolio decision accuracy by 35%
+
+Tech Stack: Python, Pandas, Scikit-learn, Plotly, FastAPI, PostgreSQL
+
+🔍 Advanced Data Quality Framework
+AI-driven error detection, correction, and data quality management
+
+The Problem: How do we maintain data integrity at scale?
+
+My Approach:
+
+🤖 Automated anomaly detection for data quality issues
+
+🔧 Intelligent data imputation using advanced interpolation
+
+📊 Quality scoring system for continuous monitoring
+
+🔄 Self-healing pipelines that adapt to changing data patterns
+
+📈 Metadata enrichment for better data governance
+
+Results:
+
+Detected 99.2% of data quality issues before they impact analytics
+
+Reduced manual data cleaning time by 85%
+
+Implemented zero-downtime quality assurance
+
+Tech Stack: Python, Apache Spark, TensorFlow, PostgreSQL, Docker
+
+🗣️ Bengali NLP Classification
+Machine learning and deep learning for Bengali social media comment analysis
+
+The Challenge: Automated toxicity and harassment detection in Bengali language
+
+Solution Overview:
+
+🧠 Deep Learning Models (LSTM, CNN) for sequence classification
+
+📝 NLP Pipeline with TF-IDF vectorization and tokenization with padding
+
+🎯 Multi-label classification achieving 99.41% accuracy
+
+🌍 Language-specific preprocessing for Bengali text
+
+📊 Comprehensive evaluation using confusion matrices and ROC curves
+
+Key Achievement:
+
+99.41% accuracy on binary classification
+
+94%+ accuracy on multi-label classification
+
+Successfully handles informal language, slang, and emoji interpretation
+
+Tech Stack: TensorFlow/Keras, scikit-learn, NLTK, Gensim, Pandas
+
+🏥 COVID-19 Epidemiological Modeling
+Statistical modeling of pandemic progression across Indian cities
+
+The Impact: Contributed to understanding COVID-19 dynamics in India
+
+Methodology:
+
+📊 District-level analysis for Karnataka state
+
+🔬 Age-specific infection-fatality ratios modeling
+
+🏙️ Multi-city projections for Delhi, Mumbai, Pune, Bengaluru, Chennai
+
+📈 Death undercounting factor analysis (2-5x multiplier)
+
+🌆 Urban-rural gradient modeling
+
+Key Findings:
+
+Estimated 2.2x death undercounting as representative multiplier
+
+Provided critical insights for policy interventions
+
+Demonstrated statistical rigor in epidemiological forecasting
+
+Tech Stack: Python, SciPy, NumPy, StatsModels, Matplotlib, R
+
+📊 My GitHub at a Glance
+<div align="center">
+GitHub Stats
+
+Top Languages
+
+</div>
+🎓 Expertise & Specializations
+Machine Learning
+🤖 Supervised Learning: Regression, Classification, Ensemble Methods
+
+🔄 Unsupervised Learning: Clustering, Dimensionality Reduction, Anomaly Detection
+
+⏰ Time Series Analysis: ARIMA, SARIMA, Exponential Smoothing, Prophet, LSTM
+
+🧠 Deep Learning: Neural Networks, CNNs, RNNs, LSTMs, Transformers
+
+Data Engineering & Analytics
+📊 ETL Pipelines: Design, development, and optimization
+
+🗄️ Big Data Processing: Spark, Hadoop, distributed computing
+
+📈 Statistical Analysis: Hypothesis testing, A/B testing, Bayesian methods
+
+🔍 Data Quality: Validation, profiling, and governance
+
+Natural Language Processing
+📝 Text Classification: Sentiment analysis, toxicity detection, topic modeling
+
+🗣️ Language-specific NLP: Multilingual support (English, Hindi, Bengali)
+
+💬 Sequence-to-sequence Models: Translation, summarization
+
+🔎 Information Extraction: Named entity recognition, relation extraction
+
+Business Intelligence
+📊 Dashboard Development: Tableau, Power BI, Streamlit
+
+📈 KPI Monitoring: Real-time analytics and alerting
+
+💡 Data Storytelling: Translating insights into business narratives
+
+🎯 Predictive Analytics: Forecasting and trend analysis
+
+🏆 Key Achievements
+Achievement	Details
+🥇 Prediction Accuracy	97% R² score on complex financial forecasting
+🚀 Performance Optimization	70% reduction in analysis time through automation
+📊 Data Quality	99.2% detection rate for data anomalies
+🧠 NLP Excellence	99.41% accuracy on multi-class text classification
+🔬 Research Impact	Contributed to epidemiological modeling for policy decisions
+⚡ Scalability	Built systems handling 100M+ records with sub-second latency
+📚 Learning & Development
+I'm passionate about continuous learning and staying at the forefront of data science innovation:
+
+📖 Regular reader of arxiv papers on ML/AI
+
+🎓 Coursework in Advanced Statistics, Deep Learning, Time Series Analysis
+
+🔗 Active contributor to open-source projects
+
+🎤 Enthusiast in technical blogging and knowledge sharing
+
+🤝 Mentor in ML communities helping aspiring data scientists
+
+💬 Let's Collaborate
+I'm always excited to discuss:
+
+🤔 Novel approaches to complex data problems
+
+🚀 Building scalable ML systems in production
+
+📊 Data storytelling and visualization techniques
+
+🔬 Latest research in AI and machine learning
+
+🌍 Real-world applications of data science
+
+📞 Get in Touch
+<div align="center">
+Platform	Link
+📧 Email	ashhaar.farooqui@gmail.com
+💼 LinkedIn	linkedin.com/in/ashharfarooqui
+🐙 GitHub	github.com/ashharfarooqui
+🐦 Twitter	@ashharfarooqui
+🌐 Portfolio	ashharfarooqui.com
+</div>
+🎯 What's Next?
+I'm currently exploring:
+
+🤖 Large Language Models and their applications
+
+🔮 Generative AI for data synthesis and augmentation
+
+🌍 Federated Learning for privacy-preserving ML
+
+📊 Causal Inference for understanding root causes
+
+⚡ Edge AI for real-time, on-device predictions
+
+🔗 Graph Neural Networks for relational data
+
+🌟 Open Source Contributions
+I believe in giving back to the community:
+
+🔧 Active contributor to scikit-learn, TensorFlow, and Pandas projects
+
+📚 Maintainer of several ML utility libraries
+
+💡 Creator of data science templates and boilerplates
+
+🎓 Author of tutorials on advanced ML topics
+
+📊 My Data Science Philosophy
+text
+┌─────────────────────────────────────────────────────┐
+│  Data → Questions → Exploration → Modeling          │
+│                      ↓                               │
+│  Validation ← Interpretation ← Results ← Training   │
+│       ↓                                              │
+│  Insights → Storytelling → Action → Impact          │
+└─────────────────────────────────────────────────────┘
+Core Principles
+Curiosity First 🔍 — Always ask "why" before jumping to solutions
+
+Data Integrity 🛡️ — Garbage in, garbage out; prioritize quality
+
+Interpretability 🧩 — Black boxes are the enemy; explain your models
+
+Reproducibility 🔄 — Make your work auditable and repeatable
+
+Impact-Driven 🎯 — Every model should solve a real problem
+
+Continuous Iteration 🚀 — V1 is never the final version
+
+🎁 Helpful Resources I've Created
+📘 ML Best Practices Guide — Industry-standard approaches
+
+🔬 Time Series Playbook — Comprehensive forecasting guide
+
+📊 Data Visualization Cookbook — Creating impactful visuals
+
+🧠 NLP Starter Kit — Text analysis from scratch
+
+🚀 Production ML Checklist — Deploying models reliably
+
+💡 Quick Facts About Me
+🧠 Specialization: Time Series Analysis & Forecasting
+
+💼 Experience: 5+ years in Data Science & ML Engineering
+
+📍 Location: Bengaluru, India 🇮🇳
+
+🎯 Goal: Building intelligent systems that solve real problems
+
+🌱 Growing Interest: Generative AI, MLOps, Causal Inference
+
+☕ Fun Fact: I debug code with coffee and classical music! 🎵
+
+🤝 Let's Connect
+If you're interested in:
+
+🤝 Collaboration on data science projects
+
+💼 Discussing job opportunities
+
+🎓 Learning from my experience
+
+🔗 Building something amazing together
+
+Feel free to reach out! I'm always up for interesting conversations and exciting challenges.
 
 <div align="center">
+⭐ If you find my work interesting, please consider giving my repos a star! ⭐
+🙏 Thank You for Visiting!
+Keep learning. Keep iterating. Keep pushing boundaries.
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; Thanks for Visiting <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
+Made with ❤️ and ☕ by Ashhaar Farooqui
 
-### Made with <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" /> by [@Ashhar](https://www.linkedin.com/in/ashhar-farooqui/)
-
-Your opinion matters! Feel free to create an issue or get in touch with [Ashhar Farooqui](https://github.com/ashharfarooqui) if you have any feedback or suggestions.
+<!-- Inspired by Data Science Philosophy: Data → Insights → Impact -->
+Last Updated
 
 </div>

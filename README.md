@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 ### Let's Connect  
 <div align="center">
 
-<a href="https://mastodon.social/@ashharfarooqui"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mastodon-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944983.png?f=webp&w=256" width="90"></a> 
+<!-- <a href="https://mastodon.social/@ashharfarooqui"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mastodon-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-4-pack-logos-icons-2944983.png?f=webp&w=256" width="90"></a>  -->
 <a href="https://x.com/ashhar_farooqui"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
 <a href="https://www.linkedin.com/in/ashhar-farooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <a href="https://instagram.com/_ashharfarooqui/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>

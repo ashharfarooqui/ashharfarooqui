@@ -1,5 +1,6 @@
-<div align="center">
 # 👋 Welcome to My Data Science Universe
+
+<div align="center">
 
 ### 🔬 **Ashhar Farooqui** — Data Scientist | ML Engineer | Analytics Pioneer
 #### 📍 Bengaluru, India | 💼 Transforming Raw Data into Actionable Intelligence
@@ -72,66 +73,6 @@ My career has been defined by one core mission: **extracting meaning from chaos*
 **Tech Stack**: Python, TensorFlow/Keras, XGBoost, ARIMA, Prophet, Streamlit, Plotly
 
 **🔗 [View Repository](https://github.com/ashharfarooqui/Oil-Price-Prediction) | [Read Full Documentation](https://github.com/ashharfarooqui/Oil-Price-Prediction#-oil-price-prediction)**
-
----
-
-### 📈 **[Market Analytics Dashboard](https://github.com/ashharfarooqui)**
-> *Real-time financial market analysis and portfolio optimization*
-
-**The Vision**: Empower investors with actionable market intelligence
-
-**What I Built**:
-- 📊 **Real-time data ingestion** from multiple financial APIs
-- 🎯 **Portfolio risk analysis** using Modern Portfolio Theory
-- 💡 **Anomaly detection** for unusual market movements
-- 📉 **Predictive analytics** for trend identification
-- 🔄 **Automated alerts** for critical market conditions
-
-**Impact**: Reduced analysis time by 70% | Improved portfolio decision accuracy by 35%
-
-**Tech Stack**: Python, Pandas, Scikit-learn, Plotly, FastAPI, PostgreSQL
-
----
-
-### 🔍 **[Advanced Data Quality Framework](https://github.com/ashharfarooqui)**
-> *AI-driven error detection, correction, and data quality management*
-
-**The Problem**: How do we maintain data integrity at scale?
-
-**My Approach**:
-- 🤖 **Automated anomaly detection** for data quality issues
-- 🔧 **Intelligent data imputation** using advanced interpolation
-- 📊 **Quality scoring system** for continuous monitoring
-- 🔄 **Self-healing pipelines** that adapt to changing data patterns
-- 📈 **Metadata enrichment** for better data governance
-
-**Results**: 
-- Detected **99.2% of data quality issues** before they impact analytics
-- Reduced manual data cleaning time by **85%**
-- Implemented **zero-downtime quality assurance**
-
-**Tech Stack**: Python, Apache Spark, TensorFlow, PostgreSQL, Docker
-
----
-
-### 🏥 **[COVID-19 Epidemiological Modeling](https://github.com/ashharfarooqui)**
-> *Statistical modeling of pandemic progression across Indian cities*
-
-**The Impact**: Contributed to understanding COVID-19 dynamics in India
-
-**Methodology**:
-- 📊 **District-level analysis** for Karnataka state
-- 🔬 **Age-specific infection-fatality ratios** modeling
-- 🏙️ **Multi-city projections** for Delhi, Mumbai, Pune, Bengaluru, Chennai
-- 📈 **Death undercounting factor analysis** (2-5x multiplier)
-- 🌆 **Urban-rural gradient modeling**
-
-**Key Findings**:
-- Estimated **2.2x death undercounting** as representative multiplier
-- Provided **critical insights** for policy interventions
-- Demonstrated **statistical rigor** in epidemiological forecasting
-
-**Tech Stack**: Python, SciPy, NumPy, StatsModels, Matplotlib, R
 
 ---
 

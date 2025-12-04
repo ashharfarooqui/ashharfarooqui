@@ -1,9 +1,7 @@
-[profile-README.md](https://github.com/user-attachments/files/23931301/profile-README.md)
+<div align="center">
 # 👋 Welcome to My Data Science Universe
 
-<div align="center">
-
-### 🔬 **Ashhaar Farooqui** — Data Scientist | ML Engineer | Analytics Pioneer
+### 🔬 **Ashhar Farooqui** — Data Scientist | ML Engineer | Analytics Pioneer
 #### 📍 Bengaluru, India | 💼 Transforming Raw Data into Actionable Intelligence
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashharfarooqui&color=blueviolet)
@@ -116,27 +114,6 @@ My career has been defined by one core mission: **extracting meaning from chaos*
 
 ---
 
-### 🗣️ **[Bengali NLP Classification](https://github.com/ashharfarooqui)**
-> *Machine learning and deep learning for Bengali social media comment analysis*
-
-**The Challenge**: Automated toxicity and harassment detection in Bengali language
-
-**Solution Overview**:
-- 🧠 **Deep Learning Models** (LSTM, CNN) for sequence classification
-- 📝 **NLP Pipeline** with TF-IDF vectorization and tokenization with padding
-- 🎯 **Multi-label classification** achieving 99.41% accuracy
-- 🌍 **Language-specific preprocessing** for Bengali text
-- 📊 **Comprehensive evaluation** using confusion matrices and ROC curves
-
-**Key Achievement**: 
-- **99.41% accuracy** on binary classification
-- **94%+ accuracy** on multi-label classification
-- Successfully handles **informal language, slang, and emoji interpretation**
-
-**Tech Stack**: TensorFlow/Keras, scikit-learn, NLTK, Gensim, Pandas
-
----
-
 ### 🏥 **[COVID-19 Epidemiological Modeling](https://github.com/ashharfarooqui)**
 > *Statistical modeling of pandemic progression across Indian cities*
 
@@ -240,9 +217,9 @@ I'm always excited to discuss:
 | Platform | Link |
 |----------|------|
 | 📧 **Email** | [ashhaar.farooqui@gmail.com](mailto:ashhaar.farooqui@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/ashharfarooqui](https://linkedin.com/in/ashharfarooqui) |
+| 💼 **LinkedIn** | [linkedin.com/in/ashhar-farooqui](https://linkedin.com/in/ashhar-farooqui) |
 | 🐙 **GitHub** | [github.com/ashharfarooqui](https://github.com/ashharfarooqui) |
-| 🐦 **Twitter** | [@ashharfarooqui](https://twitter.com/ashharfarooqui) |
+| 🐦 **Twitter** | [@ashhar_farooqui](https://x.com/ashhar_farooqui) | 
 | 🌐 **Portfolio** | [ashharfarooqui.com](https://ashharfarooqui.com) |
 
 </div>
@@ -278,9 +255,9 @@ I believe in giving back to the community:
 ```
 ┌─────────────────────────────────────────────────────┐
 │  Data → Questions → Exploration → Modeling          │
-│                      ↓                               │
+│                                           ↓         │
 │  Validation ← Interpretation ← Results ← Training   │
-│       ↓                                              │
+│       ↓                                             │
 │  Insights → Storytelling → Action → Impact          │
 └─────────────────────────────────────────────────────┘
 ```
@@ -339,7 +316,7 @@ If you're interested in:
 
 **Keep learning. Keep iterating. Keep pushing boundaries.**
 
-*Made with ❤️ and ☕ by Ashhaar Farooqui*
+*Made with ❤️ and ☕ by Ashhar Farooqui*
 
 ---
 

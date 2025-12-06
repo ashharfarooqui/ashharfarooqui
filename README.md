@@ -6,9 +6,9 @@
 #### 📍 Bengaluru, India | 💼 Transforming Raw Data into Actionable Intelligence
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashharfarooqui&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ashharfarooqui)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/ashharfarooqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-important)](https://ashharfarooqui.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ashhar-farooqui)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/ashhar_farooqui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-important)](#)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🎭 **My Story: Data → Insights → Impact**
 
-Hi there! 👋 I'm **Ashhaar Farooqui**, a passionate **Data Scientist & ML Engineer** based in Bengaluru, India. My journey is one of **curiosity-driven discovery** where I transform complex datasets into compelling narratives that drive business decisions and solve real-world problems.
+Hi there! 👋 I'm **Ashhar Farooqui**, a passionate **Data Scientist & ML Engineer** based in Bengaluru, India. My journey is one of **curiosity-driven discovery** where I transform complex datasets into compelling narratives that drive business decisions and solve real-world problems.
 
 ### 📖 **The Journey**
 
@@ -161,7 +161,7 @@ I'm always excited to discuss:
 | 💼 **LinkedIn** | [linkedin.com/in/ashhar-farooqui](https://linkedin.com/in/ashhar-farooqui) |
 | 🐙 **GitHub** | [github.com/ashharfarooqui](https://github.com/ashharfarooqui) |
 | 🐦 **Twitter** | [@ashhar_farooqui](https://x.com/ashhar_farooqui) | 
-| 🌐 **Portfolio** | [ashharfarooqui.com](https://ashharfarooqui.com) |
+| 🌐 **Portfolio** | [ashharfarooqui.com](#) |
 
 </div>
 

@@ -157,7 +157,7 @@ I'm always excited to discuss:
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [ashhaar.farooqui@gmail.com](mailto:ashhaar.farooqui@gmail.com) |
+| 📧 **Email** | [ashhar.farooqui07@gmail.com](mailto:ashhar.farooqui07@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/ashhar-farooqui](https://linkedin.com/in/ashhar-farooqui) |
 | 🐙 **GitHub** | [github.com/ashharfarooqui](https://github.com/ashharfarooqui) |
 | 🐦 **Twitter** | [@ashhar_farooqui](https://x.com/ashhar_farooqui) | 

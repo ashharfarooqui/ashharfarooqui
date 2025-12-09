@@ -195,8 +195,8 @@ I believe in giving back to the community:
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Data → Questions → Exploration → Modeling          │
-│                                           ↓         │
+│  Data  →  Questions  →  Exploration  →  Modeling    │
+│                                             ↓       │
 │  Validation ← Interpretation ← Results ← Training   │
 │       ↓                                             │
 │  Insights → Storytelling → Action → Impact          │

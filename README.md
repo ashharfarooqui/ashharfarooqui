@@ -76,7 +76,7 @@ My career has been defined by one core mission: **extracting meaning from chaos*
 
 ---
 
-## 📊 **My GitHub at a Glance**
+<!-- ## 📊 **My GitHub at a Glance** 
 
 <div align="center">
 
@@ -84,7 +84,7 @@ My career has been defined by one core mission: **extracting meaning from chaos*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashharfarooqui&layout=compact&theme=radical&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
